@@ -18,3 +18,5 @@ Modellübersicht: Tastaturkatalog.pdf
 
 ### Nur mit Skyloong GK87 getestet
 Skyloong Bridge wurde komplett mit KI erstellt
+
+## Download im Release
