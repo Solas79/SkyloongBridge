@@ -20,3 +20,25 @@ Modellübersicht: Tastaturkatalog.pdf
 Skyloong Bridge wurde komplett mit KI erstellt
 
 ## Download im Release
+
+
+## Skyloong Bridge LG HUB
+
+This program establishes a connection between GK6+ series keyboards (Skyloong, Epomaker) and LG HUB, allowing Skyloong keyboards to be integrated into the LG HUB ecosystem. All standard functions should be supported.
+
+Copy the "Skyloong Bridge.app" file to your Applications folder (or a similar directory).
+##Logitech G HUB version 2026.7.1011216 must be installed (this is the only version tested).
+
+Connect your keyboard via USB and launch the app.
+Grant "Input Monitoring" permissions to Skyloong Bridge.
+Configure/verify your settings, then select "Start."
+Adjust your lighting settings within G HUB. Stopping the process or closing the app will revert the settings.
+For Apple Silicon: The app is not yet notarized by Apple. It includes 274 model profiles, 273 of which are experimental. Real-time in-game lighting effects have not yet been fully verified.
+
+Details: See "Read First.md"; Model Overview: "Keyboard Catalog.pdf"
+
+Tested exclusively with the Skyloong GK87.
+
+Skyloong Bridge was created entirely using AI.
+
+## Download via the "Releases" section.
